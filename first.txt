@@ -1,3 +1,5 @@
 this is the first git text file.
 
 We have successfully committed locally and pushed to master.
+
+Removed local branch.
